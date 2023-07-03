@@ -4,6 +4,7 @@
   "description": "I'm building a simple weather app",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Deep Jyoti Chatterjee",
